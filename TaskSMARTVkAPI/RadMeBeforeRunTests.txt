@@ -1,0 +1,1 @@
+when running tests, specify the username, password, access token in the testData.properties file in the appropriate fields and
